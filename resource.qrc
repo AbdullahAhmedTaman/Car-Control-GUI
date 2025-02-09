@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/3D_Icon.png</file>
+    <file>icons/3d_Icon_black.png</file>
+    <file>icons/aqua_logo.png</file>
+    <file>icons/arrow_down.png</file>
+    <file>icons/arrow_left.png</file>
+    <file>icons/arrow_right.png</file>
+    <file>icons/arrow_up.png</file>
+    <file>icons/camera_Icon.png</file>
+    <file>icons/camera_icon_black.png</file>
+    <file>icons/control_Icon.png</file>
+    <file>icons/control_icon_black.png</file>
+    <file>icons/home_icon.png</file>
+    <file>icons/logo aquaphoton.jpg</file>
+    <file>icons/menu_Icon.png</file>
+    <file>icons/menu_icon_black.png</file>
+    <file>icons/home_icon2.png</file>
+  </qresource>
+</RCC>
